@@ -16,6 +16,4 @@
 
 > *"Build your own dreams, or someone else will hire you to build theirs."* &nbsp; — &nbsp; [Farrah Gray](https://en.wikipedia.org/wiki/Farrah_Gray)
 
-<br />
-
 <h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper.</h4>
