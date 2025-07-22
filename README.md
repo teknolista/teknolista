@@ -1,7 +1,4 @@
-![Profile Banner](https://raw.githubusercontent.com/teknolista/teknolista/main/assets/profile-banner.png)
-
-<img src="https://raw.githubusercontent.com/teknolista/teknolista/main/assets/profile-banner.gif" width="100%" height="50%">
-
+![Profile Banner](https://raw.githubusercontent.com/teknolista/teknolista/main/assets/profile-banner.gif)
 
 ## <img src="https://raw.githubusercontent.com/teknolista/teknolista/main/assets/hand-waving.gif" width="30px">&nbsp; Hi there!
 
