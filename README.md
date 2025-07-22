@@ -1,5 +1,8 @@
 ![Profile Banner](https://raw.githubusercontent.com/teknolista/teknolista/main/assets/profile-banner.png)
 
+<img src="https://raw.githubusercontent.com/teknolista/teknolista/main/assets/profile-banner.gif" width="100%" height="50%">
+
+
 ## <img src="https://raw.githubusercontent.com/teknolista/teknolista/main/assets/hand-waving.gif" width="30px">&nbsp; Hi there!
 
 <p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I live in this surreal country we call <a href="https://en.wikipedia.org/wiki/Brazil">Brasil</a>. I have a degree in information technology (computer science), and I work in the business intelligence segment as a <i>full-stack web developer</i>. In my free time, I like to study new programming languages and code machine learning using Python.</p>
