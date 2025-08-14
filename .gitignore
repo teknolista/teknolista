@@ -1,3 +1,7 @@
+# System files
+.DS_Store
+Thumbs.db
+
 # Logs
 logs
 *.log
@@ -37,10 +41,25 @@ bower_components
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
+/dist
+/tmp
+/out-tsc
+/bazel-out
 
 # Dependency directories
 node_modules/
 jspm_packages/
+package-lock.json
+
+# TypeScript v1 declaration files
+typings/
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/libpeerconnection.log
+testem.log
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -119,13 +138,36 @@ dist
 # TernJS port file
 .tern-port
 
-# Stores VSCode versions used for testing VSCode extensions
-.vscode/
-.vscode-test
-
 # yarn v2
 .yarn/cache
 .yarn/unplugged
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/
+.history/
+prettierignore.txt
+*.code-workspace
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode/
+.vscode-test
+
+# ---------------------------------------------------------
+
+#####
+# End of core ignore list, 
+# below put you custom 'per project' settings,
+# patterns or path.
+#####
