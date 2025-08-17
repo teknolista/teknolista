@@ -12,4 +12,4 @@
 
 ---
 
-> _"Build your own dreams, or someone else will hire you to build theirs."_ &nbsp; — &nbsp; [Farrah Gray](https://en.wikipedia.org/wiki/Farrah_Gray)
+> _"Never give up on being happy. Always fight for your dreams."_ &nbsp; — &nbsp; [Augusto Cury](https://en.wikipedia.org/wiki/Augusto_Cury)
