@@ -37,9 +37,9 @@
 </table>
 
 
-## 🔰&nbsp; The [NeoBASIC 4GL](https://github.com/neobasic) Project
+## 🔰&nbsp; The [NeoBASIC](https://github.com/neobasic) Project
 
-<p align="justify">I’m currently working on a new programming language called <a href="https://www.neobasic.org/en/">NeoBASIC</a>. It is a high-level language of the fourth generation that is easy to learn and code. It is also a language that can be used to create games, apps, and other software. If you're interested in learning more, feel free to get in touch on any of the social networks in my profile. Your comments and suggestions are always welcome.</p>
+<p align="justify">I’m currently working on a new programming language called <a href="https://www.neobasic.org/en/">NeoBASIC</a>. It is a high-level language of the next generation that is easy to learn and code. It is also a language that can be used to create games, apps, and other software. If you're interested in learning more, feel free to get in touch on any of the social networks in my profile. Your comments and suggestions are always welcome.</p>
 
 
 ## 🥰&nbsp; Support my work
