@@ -42,7 +42,7 @@
 </table>
 
 
-## 🥰&nbsp; Support my Work
+## 🥰&nbsp; Support My Work
 
 - [Stripe](https://donate.stripe.com/5kQ9ASeQren29bP1Xf1Jm00)
 - [GitHub Sponsors](https://github.com/sponsors/neobasic)
