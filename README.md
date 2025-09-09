@@ -16,26 +16,22 @@
   <tr style="border: none;">
     <td style="border: none;">
         <ul>
-            <li><a href="https://www.youtube.com/@Teknolista">YouTube</a></li>
-            <li><a href="https://www.linkedin.com/in/teknolista">LinkedIn</a></li>
-        </ul>
-    </td>
-    <td style="border: none;">
-        <ul>
-            <li><a href="https://teknolista.substack.com">Substack</a></li>
             <li><a href="https://dev.to/teknolista">Dev.to</a></li>
         </ul>
     </td>
     <td style="border: none;">
         <ul>
-            <li><a href="https://x.com/teknolista">Xwitter</a></li>
-            <li><a href="https://bsky.app/profile/teknolista.bsky.social">BlueSky</a></li>
+            <li><a href="https://www.youtube.com/@Teknolista">YouTube</a></li>
         </ul>
     </td>
     <td style="border: none;">
         <ul>
-            <li><a href="https://techhub.social/@teknolista">TechHub (Mastodon)</a></li>
-            <li><a href="https://primal.net/p/nprofile1qqsrqafqzcxapdrwfeg8amvrvww7vzqspl4xw0qlr0j3f8ytzu3egfg8heh5f">Primal (Nostr)</a></li>
+            <li><a href="https://x.com/teknolista">Xwitter</a></li>
+        </ul>
+    </td>
+    <td style="border: none;">
+        <ul>
+            <li><a href="https://www.linkedin.com/in/teknolista">LinkedIn</a></li>
         </ul>
     </td>
   </tr>
