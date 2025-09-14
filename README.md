@@ -16,7 +16,7 @@
   <tr style="border: none;">
     <td style="border: none;">
         <ul>
-            <li><a href="https://dev.to/teknolista">Dev.to</a></li>
+            <li><a href="https://dev.to/teknolista">DEV.to</a></li>
         </ul>
     </td>
     <td style="border: none;">
@@ -40,8 +40,9 @@
 
 ## 🥰&nbsp; Support My Work
 
-- [Stripe](https://donate.stripe.com/5kQ9ASeQren29bP1Xf1Jm00)
+- [Stripe Donation](https://donate.stripe.com/5kQ9ASeQren29bP1Xf1Jm00)
 - [GitHub Sponsors](https://github.com/sponsors/neobasic)
+- [Open Collective](https://opencollective.com/neobasic)
 
 
 <br />
