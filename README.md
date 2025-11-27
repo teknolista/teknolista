@@ -21,17 +21,17 @@
     </td>
     <td style="border: none;">
         <ul>
-            <li><a href="https://www.youtube.com/@Teknolista">YouTube</a></li>
-        </ul>
-    </td>
-    <td style="border: none;">
-        <ul>
             <li><a href="https://x.com/teknolista">Xwitter</a></li>
         </ul>
     </td>
     <td style="border: none;">
         <ul>
             <li><a href="https://www.linkedin.com/in/teknolista">LinkedIn</a></li>
+        </ul>
+    </td>
+    <td style="border: none;">
+        <ul>
+            <li><a href="https://www.youtube.com/@Teknolista">YouTube</a></li>
         </ul>
     </td>
   </tr>
