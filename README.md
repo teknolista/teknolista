@@ -26,6 +26,11 @@
     </td>
     <td style="border: none;">
         <ul>
+            <li><a href="https://t.me/teknolista">Telegram</a></li>
+        </ul>
+    </td>
+    <td style="border: none;">
+        <ul>
             <li><a href="https://www.linkedin.com/in/teknolista">LinkedIn</a></li>
         </ul>
     </td>
