@@ -2,12 +2,12 @@
 
 ## <img src="https://raw.githubusercontent.com/teknolista/teknolista/main/assets/hand-waving.gif" width="30px">&nbsp; Hi There!
 
-<p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I live in this surreal country we call <a href="https://en.wikipedia.org/wiki/Brazil"><b>Brasil</b></a>. I have a degree in information technology (computer science), and I work in the business intelligence segment as a <i>full-stack web developer</i>. In my free time, I like to study new programming languages and code machine learning using Python and C++.</p>
+<p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I live in this surreal country we call <a href="https://en.wikipedia.org/wiki/Brazil"><b>Brasil</b></a>. I have a degree in information technology (computer science), and I work in the business intelligence segment as a <i>full-stack web developer</i>. In my free time, I enjoy experimenting with AI tools to create and edit videos, exploring the future of generative film.</p>
 
 
-## 🔰&nbsp; The [NeoBASIC](https://github.com/neobasic) Project
+## 🔰&nbsp; The [Neob](https://github.com/neob-lang) Project
 
-<p align="justify">I’m currently working on a new programming language called <a href="https://www.neobasic.org/en/">Neob</a>. It is a high-level language of the next generation that is easy to learn and code. It is also a language that can be used to create games, apps, and other software. If you're interested in learning more, feel free to get in touch on any of the social networks below. Your comments and suggestions are always welcome.</p>
+<p align="justify">I’m currently working on a new programming language called <a href="https://www.neob-lang.org/en/">Neob</a>. It is a high-level language of the next generation that is easy to learn and code. It is also a language that can be used to create games, apps, and other software. If you're interested in learning more, feel free to get in touch on any of the social networks below. Your comments and suggestions are always welcome.</p>
 
 
 ## 🌐&nbsp; Where to Find Me
@@ -16,17 +16,7 @@
   <tr style="border: none;">
     <td style="border: none;">
         <ul>
-            <li><a href="https://dev.to/teknolista">DEV.to</a></li>
-        </ul>
-    </td>
-    <td style="border: none;">
-        <ul>
             <li><a href="https://x.com/teknolista">Xwitter</a></li>
-        </ul>
-    </td>
-    <td style="border: none;">
-        <ul>
-            <li><a href="https://t.me/teknolista">Telegram</a></li>
         </ul>
     </td>
     <td style="border: none;">
@@ -39,6 +29,16 @@
             <li><a href="https://www.youtube.com/@Teknolista">YouTube</a></li>
         </ul>
     </td>
+    <td style="border: none;">
+        <ul>
+            <li><a href="https://instagram.com/teknolista">Instagram</a></li>
+        </ul>
+    </td>
+    <td style="border: none;">
+        <ul>
+            <li><a href="https://tiktok.com/@teknolista">TikTok</a></li>
+        </ul>
+    </td>
   </tr>
 </table>
 
@@ -46,8 +46,8 @@
 ## 🥰&nbsp; Support My Work
 
 - [Stripe Donation](https://donate.stripe.com/5kQ9ASeQren29bP1Xf1Jm00)
-- [GitHub Sponsors](https://github.com/sponsors/neobasic)
-- [Open Collective](https://opencollective.com/neobasic)
+- [GitHub Sponsors](https://github.com/sponsors/neob-lang)
+- [Open Collective](https://opencollective.com/neob-lang)
 
 
 <br />
