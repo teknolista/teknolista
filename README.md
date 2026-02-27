@@ -7,8 +7,7 @@
 
 ## 🇧🇷&nbsp; The [Área 55](https://github.com/area55brasil) Project
 
-<p align="justify">Estou iniciando o desenvolvimento de alguns aplicativos, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs. Se você não tem muito o que fazer da meia-noite às seis, <a href="https://github.com/area55brasil">bora lá</a>?!
-</p>
+<p align="justify">I'm starting to develop some applications, and I've decided to embrace crowdsourcing (and AI too). In case anyone is interested in participating, I created this project on GitHub. The doors are open to anyone who's tired of coding alone and wants to be part of a developer community. If you don't have much to do between midnight and six, <a href="https://github.com/area55brasil">let's go</a>?!</p>
 
 
 ## 🌐&nbsp; Where to Find Me
