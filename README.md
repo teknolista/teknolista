@@ -17,17 +17,12 @@
   <tr style="border: none;">
     <td style="border: none;">
         <ul>
-            <li><a href="https://x.com/teknolista">Xwitter</a></li>
-        </ul>
-    </td>
-    <td style="border: none;">
-        <ul>
-            <li><a href="https://www.linkedin.com/in/teknolista">LinkedIn</a></li>
-        </ul>
-    </td>
-    <td style="border: none;">
-        <ul>
             <li><a href="https://teknolista.substack.com/">Substack</a></li>
+        </ul>
+    </td>
+    <td style="border: none;">
+        <ul>
+            <li><a href="https://x.com/teknolista">Xwitter</a></li>
         </ul>
     </td>
     <td style="border: none;">
@@ -43,6 +38,11 @@
     <td style="border: none;">
         <ul>
             <li><a href="https://tiktok.com/@teknolista">TikTok</a></li>
+        </ul>
+    </td>
+    <td style="border: none;">
+        <ul>
+            <li><a href="https://www.linkedin.com/in/teknolista">LinkedIn</a></li>
         </ul>
     </td>
   </tr>
