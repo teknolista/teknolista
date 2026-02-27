@@ -5,9 +5,10 @@
 <p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I live in this surreal country we call <a href="https://en.wikipedia.org/wiki/Brazil"><b>Brasil</b></a>. I have a degree in information technology (computer science), and I work in the business intelligence segment as a <i>full-stack web developer</i>. In my free time, I enjoy experimenting with AI tools to create and edit videos, exploring the future of generative film.</p>
 
 
-## 🔰&nbsp; The [Neob](https://github.com/neob-lang) Project
+## 🇧🇷&nbsp; The [Área 55](https://github.com/area55brasil) Project
 
-<p align="justify">I’m currently working on a new programming language called <a href="https://www.neob-lang.org/en/">Neob</a>. It is a high-level language of the next generation that is easy to learn and code. It is also a language that can be used to create games, apps, and other software. If you're interested in learning more, feel free to get in touch on any of the social networks below. Your comments and suggestions are always welcome.</p>
+<p align="justify">Estou iniciando o desenvolvimento de alguns aplicativos, e decidi abraçar o crowdsourcing (e também a IA). Para o caso de alguém animar participar, criei este projeto no GitHub. As portas estão abertas para quem já está cansado de codar sozinho e quiser fazer parte de uma comunidade de devs. Se você não tem muito o que fazer da meia-noite às seis, <a href="https://github.com/area55brasil">bora lá</a>?!
+</p>
 
 
 ## 🌐&nbsp; Where to Find Me
@@ -22,6 +23,11 @@
     <td style="border: none;">
         <ul>
             <li><a href="https://www.linkedin.com/in/teknolista">LinkedIn</a></li>
+        </ul>
+    </td>
+    <td style="border: none;">
+        <ul>
+            <li><a href="https://teknolista.substack.com/">Substack</a></li>
         </ul>
     </td>
     <td style="border: none;">
@@ -46,8 +52,6 @@
 ## 🥰&nbsp; Support My Work
 
 - [Stripe Donation](https://donate.stripe.com/5kQ9ASeQren29bP1Xf1Jm00)
-- [GitHub Sponsors](https://github.com/sponsors/neob-lang)
-- [Open Collective](https://opencollective.com/neob-lang)
 
 
 <br />
