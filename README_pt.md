@@ -1,6 +1,6 @@
 ![Profile Banner](https://raw.githubusercontent.com/teknolista/teknolista/main/assets/profile-banner.gif)
 
-<p align="right"><a href="https://github.com/teknolista">🇺🇸 English</a></p>
+<p align="right"><a href="https://github.com/teknolista">🇬🇧 English</a></p>
 
 ## <img src="https://raw.githubusercontent.com/teknolista/teknolista/main/assets/hand-waving.gif" width="30px">&nbsp; Olá!
 
