@@ -1,10 +1,11 @@
 ![Profile Banner](https://raw.githubusercontent.com/teknolista/teknolista/main/assets/profile-banner.gif)
 
-<p align="right"><a href="README.md">🇺🇸 English</a></p>
+<p align="right"><a href="https://github.com/teknolista">🇺🇸 English</a></p>
 
 ## <img src="https://raw.githubusercontent.com/teknolista/teknolista/main/assets/hand-waving.gif" width="30px">&nbsp; Olá!
 
-<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é <b>Raul Bras</b> e eu vivo neste país surreal que chamamos de <a href="https://en.wikipedia.org/wiki/Brazil"><b>Brasil</b></a>. Sou formado em tecnologia da informação (ciência da computação), e trabalho no segmento de business intelligence como <i>desenvolvedor web full-stack</i>. No meu tempo livre, gosto de experimentar com ferramentas de IA para criar e editar vídeos, explorando o futuro do cinema generativo.</p>
+<p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é <b>Raul Bras</b> e eu vivo neste país surreal que chamamos de <a href="https://pt.wikipedia.org/wiki/Brasil"><b>Brasil</b></a>. Sou formado em tecnologia da informação (ciência da computação), e trabalho no segmento de business intelligence como <i>desenvolvedor web full-stack</i>. No meu tempo livre, gosto de experimentar com ferramentas de IA para criar e editar vídeos, explorando o futuro do cinema generativo.</p>
+<br>
 
 ## 🇧🇷&nbsp; O Projeto [Área 55](https://github.com/area55brasil)
 
