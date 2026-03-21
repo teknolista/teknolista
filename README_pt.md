@@ -7,11 +7,6 @@
 <p align="justify">Bem-vindo à minha página de desenvolvedor no GitHub! Meu nome é <b>Raul Bras</b> e eu vivo neste país surreal que chamamos de <a href="https://pt.wikipedia.org/wiki/Brasil"><b>Brasil</b></a>. Sou formado em tecnologia da informação (ciência da computação), e trabalho no segmento de business intelligence como <i>desenvolvedor web full-stack</i>. No meu tempo livre, gosto de experimentar com ferramentas de IA para criar e editar vídeos, explorando o futuro do cinema generativo.</p>
 <br>
 
-## 🇧🇷&nbsp; O Projeto [Área 55](https://github.com/area55brasil)
-
-<p align="justify">Estou começando a desenvolver algumas aplicações, e decidi abraçar o crowdsourcing (e a IA também). Caso alguém esteja interessado em participar, criei este projeto no GitHub. As portas estão abertas para qualquer pessoa que esteja cansada de codificar sozinha e queira fazer parte de uma comunidade de desenvolvedores. Se você não tem muito o que fazer entre meia-noite e seis, <a href="https://github.com/area55brasil">bora lá</a>?!</p>
-<br>
-
 ## 🌐&nbsp; Onde Me Encontrar
 
 <table style="width: 80%; border: none;">
