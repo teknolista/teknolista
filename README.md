@@ -45,11 +45,6 @@
 </table>
 <br>
 
-## 🥰&nbsp; Support My Work
-
-- [Stripe Donation](https://donate.stripe.com/5kQ9ASeQren29bP1Xf1Jm00)
-<br>
-
 <h4 align="right">:vulcan_salute:&nbsp; Code Long in Peace.</h4>
 
 ---
