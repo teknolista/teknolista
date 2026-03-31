@@ -10,7 +10,7 @@
 
 <p align="justify">Abaixo segue uma lista dos meus projetos e experimentos em execução. Esses repositórios representam meu foco atual em engenharia de software. Sinta-se à vontade para explorar o código-fonte ou entrar em contato caso tenha interesse em colaborar.</p>
 
-- [Castas](https://github.com/teknolista/castas) • Teste de Polarização Afetiva. O objetivo deste aplicativo é oferecer uma ferramenta de diagnóstico para um dos fenômenos mais desafiadores nas democracias modernas: a polarização afetiva.
+- 🤬 [Castas](https://github.com/teknolista/castas) • Teste de Polarização Afetiva. O objetivo deste aplicativo é oferecer uma ferramenta de diagnóstico para um dos fenômenos mais desafiadores nas democracias modernas: a polarização afetiva.
 
 <br>
 
