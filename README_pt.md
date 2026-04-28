@@ -10,7 +10,9 @@
 
 <p align="justify">Abaixo segue uma lista dos meus projetos e experimentos em execução. Esses repositórios representam meu foco atual em engenharia de software. Sinta-se à vontade para explorar o código-fonte ou entrar em contato caso tenha interesse em colaborar.</p>
 
-- 🤬 [Castas](https://github.com/teknolista/castas) • Teste de Polarização Afetiva. O objetivo deste aplicativo é oferecer uma ferramenta de diagnóstico para um dos fenômenos mais desafiadores nas democracias modernas: a polarização afetiva.
+- **🤬 [Castas](https://github.com/teknolista/castas)** • Teste de Polarização Afetiva. O objetivo deste aplicativo é oferecer uma ferramenta de diagnóstico para um dos fenômenos mais desafiadores nas democracias modernas: a polarização afetiva.
+- **🐮 [Remote OX](https://github.com/remoteox)** • Relay Público de Vagas. Encontre vagas de emprego na área de tecnologia no mundo todo, remotas ou presenciais. Navegue pelas oportunidades, pesquise, candidate-se e conecte-se com empresas diretamente no seu chat de IA favorito.
+- **🤡 [Krusty](https://github.com/krusty)** • Mercados de previsão são jogos de azar! Se você está tentando convencer as pessoas do contrário, você é um palhaço. Se você acha que tem alguma chance de ganhar dinheiro com alguma estratégia inteligente, estão fazendo você de palhaço.
 
 <br>
 
