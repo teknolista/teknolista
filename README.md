@@ -10,9 +10,9 @@
 
 <p align="justify">Below is a list of my active projects and experiments. These repositories represent my current focus on software engineering. Feel free to explore the source or reach out if you're interested in collaborating.</p>
 
-- **🤬 [Castas](https://github.com/teknolista/castas)** • Affective Polarization Test. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: the affective polarization.
-- **🐮 [Remote OX](https://github.com/remoteox)** • Public Job Relay. Find tech jobs worldwide, remote or on-site. Browse opportunities, search, apply, and connect with companies directly in your favorite AI chat.
-- **🤡 [Krusty](https://github.com/teknolista/krusty)** • Predictions markets are gambling! If you're trying to convince people otherwise, you're a clown. If you think you have a chance of making money with some clever strategy, without insider trading, they're making a clown of you.
+- **🤬 [Castas](https://github.com/teknolista/castas) • Affective Polarization Test**. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: the affective polarization.
+- **🐮 [Remote OX](https://github.com/remoteox) • Public Job Relay**. Find tech jobs worldwide, remote or on-site. Browse opportunities, search, apply, and connect with companies directly in your favorite AI chat.
+- **🤡 [Krusty](https://github.com/teknolista/krusty) • The Wisdom of Clowns**. Predictions markets are gambling! If you're trying to convince people otherwise, you're a clown. If you think you have a chance of making money with some clever strategy, without insider trading, they're making a clown of you.
 
 <br>
 
