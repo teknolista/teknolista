@@ -11,7 +11,7 @@
 <p align="justify">Below is a list of my active projects and experiments. These repositories represent my current focus on software engineering. Feel free to explore the source or reach out if you're interested in collaborating.</p>
 
 - **🤬 [Castas](https://github.com/teknolista/castas) • Affective Polarization Test**. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: the affective polarization.
-- **🐮 [Remote OX](https://github.com/remoteox) • Public Job Relay**. Find tech jobs worldwide, remote or on-site. Browse opportunities, search, apply, and connect with companies directly in your favorite AI chat.
+- **🐮 [Remote OX](https://github.com/teknolista/remoteox-api) • Public Job Relay**. Find tech jobs worldwide, remote or on-site. Browse opportunities, search, apply, and connect with companies directly in your favorite AI chat.
 
 
 <br>
