@@ -15,11 +15,12 @@
 
 ## 🎥 AI Video Filmmaking
 
-<p align="justify">I’ve been exploring AI-generated videos and films. I’m going to share the entire creation process openly, in case anyone else wants to learn, too.</p>
+<p align="justify">I’ve been exploring AI-generated videos and films. I’m going to share the entire learning and creation process openly, in case anyone else wants to learn, too.</p>
 
-- **👑 [King Marmalade](https://github.com/teknolista/video-samples-king-marmalade) • Video Samples**. Some video clips of King Marmalade, just to learn how to use AI to create images and videos.
+- **👑 King Marmalade • Video Samples**: Some video clips of King Marmalade, just to learn how to use AI for image and video generation.
 
-
+    - [Oogachaka Baby](https://github.com/teknolista/king-marmalade-oogachaka-baby)
+  
 <br>
 
 <h4 align="right">:vulcan_salute:&nbsp; Code Long in Peace.</h4>

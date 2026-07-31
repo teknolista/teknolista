@@ -15,11 +15,11 @@
 
 ## 🎥 Produção de Vídeos com IA
 
-<p align="justify">Eu tenho explorado a geração de vídeos e filmes com IA. Vou deixar todo o processo de criação em aberto, para o caso de alguém também querer aprender.</p>
+<p align="justify">Eu tenho explorado a geração de vídeos e filmes com IA. Vou deixar todo o processo de aprendizado e criação em aberto, para o caso de alguém também querer aprender.</p>
 
-- **👑 [Rei Marmelada](https://github.com/teknolista/video-samples-king-marmalade) • Amostras de Vídeos**. Alguns clipes de vídeos do Rei Marmelada, apenas para aprender a usar IA na criação de imagens e vídeos.
+- **👑 Rei Marmelada • Amostras de Vídeos**: Alguns clipes de vídeos do Rei Marmelada, apenas para aprender a usar IA na geração de imagens e vídeos.
 
-
+    - [Oogachaka Baby](https://github.com/teknolista/king-marmalade-oogachaka-baby)
 
 <br>
 
