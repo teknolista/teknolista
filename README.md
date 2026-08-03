@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/teknolista/teknolista/main/assets/hand-waving.gif" width="30px">&nbsp; Hi There!
 
-<p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I live in this surreal country we call <a href="https://en.wikipedia.org/wiki/Brazil"><b>Brasil</b></a>. I have a degree in information technology (computer science), and I work in the business intelligence segment as a <i>full-stack web developer</i>. In my free time, I enjoy experimenting with AI tools to create and edit videos, exploring the future of generative film.</p>
+<p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I live in this surreal country we call <a href="https://en.wikipedia.org/wiki/Brazil"><b>Brasil</b></a>. I have a degree in information technology (computer science), and I work in the business intelligence segment as a <i>full-stack web developer</i>.</p>
 
 ## 👨‍💻 Current Software Projects
 
