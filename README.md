@@ -19,7 +19,7 @@
 
 - **👑 King Marmalade • Video Samples**: Some video clips of King Marmalade, just to learn how to use AI for image and video generation.
 
-    - [Oogachaka Baby](https://github.com/teknolista/king-marmalade-oogachaka-baby)
+    - [Oogachaka Baby](https://drive.google.com/drive/folders/10bV3EczuUa99lI9LYaKe2w1Yu3RFUOOA?usp=drive_link)
   
 <br>
 

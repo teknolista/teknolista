@@ -19,7 +19,7 @@
 
 - **👑 Rei Marmelada • Amostras de Vídeos**: Alguns clipes de vídeos do Rei Marmelada, apenas para aprender a usar IA na geração de imagens e vídeos.
 
-    - [Oogachaka Baby](https://github.com/teknolista/king-marmalade-oogachaka-baby)
+    - [Oogachaka Baby](https://drive.google.com/drive/folders/10bV3EczuUa99lI9LYaKe2w1Yu3RFUOOA?usp=drive_link)
 
 <br>
 
