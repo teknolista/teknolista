@@ -19,7 +19,7 @@
 
 - **👑 Rei Marmelada • Amostras de Vídeos**: Alguns clipes de vídeos do Rei Marmelada, apenas para aprender a usar IA na geração de imagens e vídeos.
 
-    - [Oogachaka Baby](https://drive.google.com/drive/folders/10bV3EczuUa99lI9LYaKe2w1Yu3RFUOOA?usp=drive_link)
+    - [Oogachaka Baby](https://drive.google.com/drive/folders/1Hobi1P8kBYv__f7igBbK716xcbE2tr6O?usp=drive_link) — Apresentação inaugural do Salão Dourado da Casa Branca, com o Rei Marmelada dançando como o Oogachaka Baby.
 
 <br>
 
