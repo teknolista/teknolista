@@ -29,4 +29,4 @@
 
 ---
 
-> *"Never give up on being happy; Always fight for your dreams."* &nbsp; — &nbsp; [Augusto Cury](https://en.wikipedia.org/wiki/Augusto_Cury)
+> "The only happiness in life lies in the consciousness of having accomplished something useful for the benefit of the community." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
