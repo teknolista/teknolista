@@ -16,6 +16,8 @@
 
 - **🤬 [Castas](https://github.com/55area/castas) • Affective Polarization Test**. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: affective polarization.
 
+- **🐝 [Yo! Fi](https://github.com/55area/yo-fi) • Mobile Application**. Sharing Wi-Fi access between individuals and businesses, and transferring messages via Wi-Fi.
+
 
 ## 🎥&nbsp; AI Video Filmmaking
 
