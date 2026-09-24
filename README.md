@@ -2,7 +2,7 @@
 
 ## <img src="https://raw.githubusercontent.com/teknolista/teknolista/main/assets/hand-waving.gif" width="30px">&nbsp; Hi There!
 
-<p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I live in this surreal country we call <a href="https://en.wikipedia.org/wiki/Brazil"><b>Brasil</b></a>. I have a degree in information technology (computer science), and I work in the business intelligence segment as a <i>full-stack web developer</i>.</p>
+<p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I live in this surreal country we call <a href="https://en.wikipedia.org/wiki/Brazil"><b>Brasil</b></a>. I have a degree in information technology (computer science), and I work in the business intelligence segment as IT Business Analyst.</p>
 
 
 ## 👽&nbsp; The [+55 Area 🇧🇷](https://github.com/55area)
@@ -16,7 +16,7 @@
 
 - **🤬 [Castas](https://github.com/55area/castas) • Affective Polarization Test**. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: affective polarization.
 
-- **🐝 [Yo! Fi](https://github.com/55area) • Mobile Application**. Sharing Wi-Fi access between individuals and businesses, and transferring messages via Wi-Fi.
+- **📊 [NeoBasic](https://www.neobasic.org/) • AI Development Census**. Designed as the open census of AI tools in software development, this platform discovers what developers are actually using in real-world repositories around the world.
 
 
 ## 🎥&nbsp; AI Video Filmmaking
