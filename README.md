@@ -16,20 +16,7 @@
 
 - **🤬 [Castas](https://github.com/55area/castas) • Affective Polarization Test**. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: affective polarization.
 
-- **📊 [NeoBasic](https://www.neobasic.org/) • AI Development Census**. Designed as the open census of AI tools in software development, this platform discovers what developers are actually using in real-world repositories around the world.
-
-
-## 🎥&nbsp; AI Video Filmmaking
-
-<p align="justify">I’ve been exploring AI-generated videos and films. I’m going to share the entire learning and creation process openly, in case anyone else wants to learn, too.</p>
-
-- **👑 King Marmalade • Video Samples**: Some video clips of King Marmalade, just to learn how to use AI for image and video generation.
-
-    - [Oogachaka Baby](https://drive.google.com/drive/folders/1Hobi1P8kBYv__f7igBbK716xcbE2tr6O?usp=drive_link) — Inaugural presentation of the White House's Golden Ballroom, featuring King Marmalade dancing like the Oogachaka Baby.
-
-- **🎶 Regional Lo-Fi Music**: I really enjoy listening to lo-fi music while studying or working. I decided to create some mixes of lo-fi music specific to certain regions—not just in Brazil, but also in other countries.
-
-    - [🇧🇷 Minas Gerais](https://drive.google.com/drive/folders/1C9IW18fBCyTd_Pjrm-n0VzJ0NmxH-XNz?usp=drive_link) — Lo-fi music with a distinctly Minas Gerais/Brazil character, blending the relaxed, dusty warmth of lo-fi beats with the regional musical traditions of the state.
+- **📊 [Census](https://www.census.com/) • AI Development Census**. Designed as the open census of AI tools in software development, this platform discovers what developers are actually using in real-world repositories around the world.
 
 <br>
 
