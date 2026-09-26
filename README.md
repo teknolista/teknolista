@@ -5,7 +5,7 @@
 <p align="justify">Welcome to my developer page on GitHub! My name is <b>Raul Bras</b> and I live in this surreal country we call <a href="https://en.wikipedia.org/wiki/Brazil"><b>Brasil</b></a>. I have a degree in information technology (computer science), and I work in the business intelligence segment as IT Business Analyst.</p>
 
 
-## 👽&nbsp; The [+55 Area 🇧🇷](https://github.com/55area)
+## 👽&nbsp; The [Area +55 🇧🇷](https://github.com/55area)
 
 <p align="justify">I'm starting to develop some applications, and I've decided to embrace crowdsourcing (and AI too). In case anyone is interested in participating, I created this organization on GitHub. The doors are open to anyone who's tired of coding alone and wants to be part of a developer community.</p>
 
