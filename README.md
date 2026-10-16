@@ -16,7 +16,7 @@
 
 - **🤬 [Castas](https://github.com/55area/castas) • Affective Polarization Test**. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: affective polarization.
 
-- **📊 [Census](https://www.census.com/) • AI Development Census**. Designed as the open census of AI tools in software development, this platform discovers what developers are actually using in real-world repositories around the world.
+- **📊 [AVnews](https://www.github.com/55area/avnews.com.br/) • Top AudioVisual Stories**. Web Forum focused on the audiovisual community, designed for discussions and the exchange of knowledge through posts and comments created by the users themselves.
 
 <br>
 
