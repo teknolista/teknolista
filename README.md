@@ -16,7 +16,7 @@
 
 - **🤬 [Castas](https://github.com/55area/castas) • Affective Polarization Test**. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: affective polarization.
 
-- **📊 [AVnews](https://www.github.com/55area/avnews.com.br/) • Top AudioVisual Stories**. Web Forum focused on the audiovisual community, designed for discussions and the exchange of knowledge through posts and comments created by the users themselves.
+- **✨ [Skills](https://github.com/teknolista/skills) • AI Agent Skills**. My collection of skills and prompt templates for guiding AI agents through software specification, development, and review — making the process more consistent, efficient, and aligned with user needs.
 
 <br>
 
