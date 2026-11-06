@@ -7,7 +7,7 @@
 
 ## 👽&nbsp; The [Área +55 🇧🇷](https://github.com/55area) Venture
 
-<p align="justify">I've started a long-term personal venture to gradually replace preinstalled Android apps with my own privacy-focused alternatives. I'm concerned that Big Tech companies are increasingly hungry for personal data, tracking everything they can with little regard for users' privacy. Using AI and clean-room reverse engineering, I'm developing independent, secure, and transparent apps, one at a time. My goal is to gradually gain more independence, privacy, and control over my own phone and personal data.</p>
+<p align="justify">I've started a long-term personal venture to gradually replace preinstalled Android apps with my own privacy-focused alternatives. I'm concerned that Big Tech companies are increasingly hungry for personal data, tracking everything they can with little regard for users' privacy. I'm developing independent, secure, and transparent apps, one at a time.</p>
 
 
 ## 👨‍💻&nbsp; Current Software Projects
