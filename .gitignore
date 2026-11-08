@@ -157,20 +157,23 @@ dist
 .settings/
 *.sublime-workspace
 
-# Visual Studio Code
+# Visual Studio Code files
 .vscode/
 .history/
 prettierignore.txt
 *.code-workspace
-
 # Stores VSCode versions used for testing VSCode extensions
-.vscode/
 .vscode-test
 
-# ---------------------------------------------------------
-
-#####
-# End of core ignore list, 
-# below put you custom 'per project' settings,
-# patterns or path.
-#####
+# AI development artifacts: skills, context, prompts, instructions, and agent-specific files
+.ai/
+.ai-context/
+.context/
+.vibes/
+.agents/
+.skills/
+.cursor/
+.cursorrules
+.windsurfrules
+.opencode/
+skills-lock.json
