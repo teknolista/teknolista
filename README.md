@@ -14,11 +14,11 @@
 
 <p align="justify">Below is a list of my active projects and experiments. These repositories represent my current focus on software engineering. Feel free to explore the source or reach out if you're interested in collaborating.</p>
 
-- **🤬 [Castas](https://github.com/teknolista/castas) • Affective Polarization Test**. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: affective polarization.
+- **🤬 [Castas](https://github.com/55area/castas) • Affective Polarization Test**. The purpose of this app is to offer a diagnostic tool for one of the most challenging phenomena in modern democracies: affective polarization.
 
 - **✨ [Skills](https://github.com/teknolista/skills) • AI Agent Skills**. My personal collection of skills and prompt templates for guiding AI agents through software specification, development, and review — making the process more consistent, efficient, and aligned with user needs.
 
-- **🐝 [Yo-Fi](https://github.com/55area/yofi-android) • Online Chat Over Wi-Fi**. Android mobile application for sharing Wi-Fi access between individuals and businesses, and transferring messages.
+- **🐝 [Yo-Fi](https://github.com/55area/yo-fi) • Online Chat Over Wi-Fi**. Android mobile application for sharing Wi-Fi access between individuals and businesses, and transferring messages.
 
 <br>
 
