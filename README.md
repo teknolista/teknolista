@@ -27,3 +27,8 @@
 ---
 
 > "The only happiness in life lies in the consciousness of having accomplished something useful for the benefit of the community." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/Vital_Brazil">Vital Brasil</a>
+
+
+## AI development workflow
+
+This repository uses project-local PentaPRO skills and factory agent profiles together with [OpenSpec](openspec/). See [agent instructions](AGENTS.md) for the project workflow. The [continuous improvement protocol](docs/agents/continuous-improvement.md) describes PDSA and the [lessons record](docs/agents/lessons-learned.md); substantial factory runs use the [execution-record guide](docs/agents/runs/README.md). Lessons are recorded in English.
