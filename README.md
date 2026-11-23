@@ -13,7 +13,7 @@
 
 - **✨ [Skills](https://github.com/teknolista/skills) • AI Agent Skills**. My personal collection of skills and prompt templates for guiding AI agents through software specification, development, and review — making the process more consistent, efficient, and aligned with user needs.
 
-- **🏛️ [Softheca](https://github.com/teknolista/softheca) • Software Bibliotheca**. Free and open source catalog of services and business processes that can be implemented as software by AI agents.
+- **🏛️ [Softheca](https://github.com/teknolista/softheca) • Software Bibliotheca**. Free and open source catalog of services and business processes that can be implemented as software by AI agents — All-you-can-build (AYCB).
 
 <br>
 
