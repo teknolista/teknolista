@@ -1,0 +1,3 @@
+# PentaPRO specification
+
+Read [PROCESS](process/index.md) for current scope and next action. The five pillars own the maintained software specification. Use [PRODUCT](product/overview.md), [PROJECT](project/architecture.md), [PRODUCTION](production/environments.md), [PROOF](proof/traceability.md), and [PROCESS](process/index.md). Put supporting images, icons, styles and other binary resources in [assets](assets/), with source, rights and revision recorded in the owning pillar. Keep active change records in [changes](changes/) and preserve completed or cancelled changes in [archive](changes/archive/). Reconcile affected canonical records and evidence for the tested revision.

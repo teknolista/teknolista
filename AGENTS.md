@@ -30,7 +30,7 @@ Before appending, check the Git index for `AGENTS.log` and `AGENTS.log.*`; if an
 
 ## PentaPRO factory guidance
 
-Use the applicable project-local skills in `.agents/skills/`; use `software-factory` for the installed native PentaPRO factory lifecycle in `pentapro/changes/`. Preserve accepted legacy specification records and use a separately requested legacy workflow only when its records and tools remain available; do not recreate retired OpenSpec setup or infer a product-specification migration from this tooling update. Follow existing project instructions and actual user authority. Factory role profiles are available for Codex, GitHub Copilot, OpenCode and Antigravity CLI; resolve their host-specific identities before delegation.
+Use the applicable project-local skills in `.agents/skills/`; use `software-factory` for the installed native PentaPRO factory lifecycle in `pentapro/changes/`. Preserve accepted project decisions and historical evidence. PentaPRO owns current specification and change work; do not recreate a retired workflow during tooling setup. Follow existing project instructions and actual user authority. Factory role profiles are available for Codex, GitHub Copilot, OpenCode and Antigravity CLI; resolve their host-specific identities before delegation.
 
 When a developer directly invokes a factory role without a narrower task, delegate its defined workflow using the current project and session context. Preserve its configured model and reasoning effort, the developer’s custom settings, applicable permissions and role-specific stop conditions. A direct shipper invocation requests git-ship review, commit and normal push; implementation completion alone does not.
 
