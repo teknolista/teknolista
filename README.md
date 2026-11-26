@@ -18,6 +18,8 @@
 
 - **✨ [PentaPRO](https://github.com/teknolista/pentapro) • AI Agent Skills**. My personal collection of agents, skills and prompt templates for guiding AI agents through software specification, development, and review — making the process more consistent, efficient, and aligned with user needs.
 
+- **🍀 [ChuteGPT](https://github.com/teknolista/chutegpt) • Dia de Sorte**. A CLI application designed for analyzing data and statistics from the "Dia de Sorte" lottery, operated by Caixa Econômica Federal. Developed in Rust for any desktop environment.
+
 - **🏛️ [Softheca](https://github.com/teknolista/softheca) • Software Bibliotheca**. Free and open source catalog of services and business processes that can be implemented as software by AI agents — All-you-can-build (AYCB).
 
 - **🐝 [Yo-Fi](https://github.com/55area/yo-fi) • Online Chat Over Wi-Fi**. Android mobile application for sharing Wi-Fi access between individuals and businesses, and transferring messages.
